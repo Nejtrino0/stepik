@@ -1,2 +1,1 @@
-# stepik
-stepik_ Description
+# Stepik
